@@ -8,4 +8,4 @@
 
 - This project is inspired by [LLM Security](https://llmsecurity.net/), [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security), [LLM Security & Privacy](https://github.com/chawins/llm-sp), [UR2-LLMs](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness), [PLMpapers](https://github.com/thunlp/PLMpapers), [EvaluationPapers4ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT) and [LLM Safety, Security and Privacy](https://github.com/ThuCCSLab/lm-ssp)
 
-<p align="center"><img src="figure/logo-new.png" width="900" /></p>
+<p align="center"><img src="figure/logo.png" width="900" /></p>
