@@ -1,6 +1,6 @@
 
 
-<img src="https://badges.toozhao.com/badges/01HQWGG44FNJEGAH3719B78WRV/green.svg" /> <img alt="Stars" src="[https://img.shields.io/github/stars/ThuCCSLab/lm-ssp](https://img.shields.io/github/stars/xirui-li/attacks-on-LLMs)">
+<img src="https://badges.toozhao.com/badges/01HQWGG44FNJEGAH3719B78WRV/green.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xirui-li/attacks-on-LLMs&type=Date)](https://star-history.com/#xirui-li/attacks-on-LLMs&Date)
